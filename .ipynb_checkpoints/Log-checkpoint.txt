@@ -1,0 +1,31 @@
+13/01/2026 - Chose property price dataset, looked over example on K-Nearest-Neighbors, started applying it to my new dataset.
+
+20/01/2026 - Explored possibility of geoencoding property data (not possible for this project, too time consuming and expensive). Switched to a dow jones index dataset and worked on a knn regression model to predict the pecentage change in the dow jones index for the next week.
+
+27/01/2026 - Tuned dow jones knn regression by finding optimal value for K and using bagging. Started looking at doing a KNN classification model to classify high moving weeks.
+
+03/02/2026 - Performed discretization on a continuous target variable in order to use it with KNN Classification. Attempted to predict direction of next weeks stock price using KNN classification (this did not work well). Pivoted to predicting if a stock would be a high mover or a low mover (this worked better).
+
+10/02/2026 - Received feedback on KNN-Classification and started working on SVM example using a Phishing URL dataset Completed very basic SVM example using Phishing URL dataset (needs more work).
+
+12/02/1016 - Started working on CNN example using a butterfly image dataset.
+
+23/02/2026 - Continued working on CNN model, started to evaluate its performance and tried to improve its performance.
+
+24/02/2026 - Received feedback on CNN model and worked on improving accuracy.
+
+03/03/2026 - Received feedback on CNN and SVM model, selected new dataset for SVM example and began working on new model.
+
+12/03/2026 - Received feedback on SVM model and started working on improving it by building a forward feature selection function.
+
+19/03/2026 - Worked on forward feature selction function for SVM model and got some feedback on it, started write ups of current models.
+
+24/03/2026 - Worked on writing up my models in preparation for the preliminary submission.
+
+26/03/2026 - Worked on improving SVM model and completing my write ups for the preliminary submission.
+
+02/04/2026 - Started working on a RNN example using a household energy consumption dataset.
+
+03/04/2026 - Tweaked LSTM RNN example, and completed write up.
+
+09/04/2026 - Started working on Fuzzy C-Means example.
