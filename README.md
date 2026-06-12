@@ -1,7 +1,7 @@
 # Data Science Projects
 
 **Author:** Diarmuid O'Neill  
-**Dates:** 27/11/2025 – 26/03/2026
+**Dates:** 27/11/2025 – 09/04/2026
 
 ## Brief Description
 
