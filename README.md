@@ -1,6 +1,6 @@
 # Data Science Projects
 
-**Author:** Diarmuid O'Neill (C00282898@setu.ie)  
+**Author:** Diarmuid O'Neill
 **Dates:** 27/11/2025 – 26/03/2026
 
 ## Brief Description
