@@ -11,10 +11,6 @@ The first section of the project investigates whether sleep and lifestyle factor
 
 The second section expands on these concepts by applying additional machine learning and deep learning techniques to a variety of datasets. These notebooks investigate stock market prediction using K-Nearest Neighbours, image classification using Convolutional Neural Networks, binary classification using Support Vector Machines, time series forecasting using Recurrent Neural Networks and unsupervised clustering using Fuzzy C-Means and K-Medoids.
 
-For more information about the sleep disorder investigation and research methods, see the technical specification:
-
-* [Technical Specification](https://github.com/Revolution825/Data-Science-Project/blob/main/Documentation/Data%20Science%20Project%20Technical%20Specification.pdf)
-
 ## Models Used
 
 ### Regression Models
@@ -63,7 +59,3 @@ The Support Vector Machine models compared both linear and non-linear kernels wh
 The Long Short-Term Memory (LSTM) Recurrent Neural Network was used to forecast household energy consumption. The notebook included model evaluation and hyperparameter tuning to improve forecasting accuracy and demonstrate the suitability of recurrent architectures for time series prediction.
 
 The Fuzzy C-Means and K-Medoids clustering models were applied to a wheat seed dataset and compared in terms of clustering performance. The results provided insight into the strengths and limitations of both clustering approaches when dealing with naturally occurring classes in agricultural data.
-
-## Weekly Log
-
-* [Weekly Log](https://github.com/Revolution825/Data-Science-Project/blob/main/Log.txt)
