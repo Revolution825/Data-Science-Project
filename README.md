@@ -1,4 +1,4 @@
-# Data Science Projects
+# Data Science and Machine Learning Portfolio
 
 **Author:** Diarmuid O'Neill  
 **Dates:** 27/11/2025 – 09/04/2026
